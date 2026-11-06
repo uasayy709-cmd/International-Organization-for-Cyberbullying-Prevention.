@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 270" role="img" aria-label="رسم توضيحي: مصادر التمويل">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf2fb"/><stop offset="1" stop-color="#fff"/></linearGradient></defs>
+<rect width="320" height="270" rx="22" fill="url(#bg)"/><circle cx="265" cy="45" r="24" fill="#d8e7f6"/><circle cx="48" cy="225" r="34" fill="#e2edf8"/>
+<g fill="none" stroke="#173b63" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="160" cy="75" rx="65" ry="25"/><path d="M95 75v45c0 14 29 25 65 25s65-11 65-25V75M95 120v45c0 14 29 25 65 25s65-11 65-25v-45"/><path d="M160 55v115M140 90h35M140 145h35"/></g>
+<circle cx="255" cy="215" r="9" fill="#b53c49"/><path d="M35 30h55" stroke="#6d95bd" stroke-width="4" stroke-linecap="round"/>
+<text x="160" y="257" text-anchor="middle" font-family="Tahoma,Arial,sans-serif" font-size="12" font-weight="bold" fill="#315d86">مصادر التمويل</text></svg>

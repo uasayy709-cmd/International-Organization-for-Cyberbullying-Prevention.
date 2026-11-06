@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 270" role="img" aria-label="رسم توضيحي: اللائحة الداخلية">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf2fb"/><stop offset="1" stop-color="#fff"/></linearGradient></defs>
+<rect width="320" height="270" rx="22" fill="url(#bg)"/><circle cx="265" cy="45" r="24" fill="#d8e7f6"/><circle cx="48" cy="225" r="34" fill="#e2edf8"/>
+<g fill="none" stroke="#173b63" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><rect x="80" y="45" width="160" height="195" rx="12"/><path d="M112 95h95M112 130h95M112 165h95M112 200h60"/><path d="M95 95l8 8 14-17M95 130l8 8 14-17M95 165l8 8 14-17"/></g>
+<circle cx="255" cy="215" r="9" fill="#b53c49"/><path d="M35 30h55" stroke="#6d95bd" stroke-width="4" stroke-linecap="round"/>
+<text x="160" y="257" text-anchor="middle" font-family="Tahoma,Arial,sans-serif" font-size="12" font-weight="bold" fill="#315d86">اللائحة الداخلية</text></svg>

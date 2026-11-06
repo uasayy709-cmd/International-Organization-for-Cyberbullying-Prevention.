@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 270" role="img" aria-label="رسم توضيحي: أنشطة المنظمة">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf2fb"/><stop offset="1" stop-color="#fff"/></linearGradient></defs>
+<rect width="320" height="270" rx="22" fill="url(#bg)"/><circle cx="265" cy="45" r="24" fill="#d8e7f6"/><circle cx="48" cy="225" r="34" fill="#e2edf8"/>
+<g fill="none" stroke="#173b63" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><rect x="65" y="70" width="190" height="130" rx="12"/><path d="M65 105h190M95 145h75M95 170h120"/><circle cx="220" cy="85" r="6"/><path d="M105 55l-18-20M215 55l18-20"/></g>
+<circle cx="255" cy="215" r="9" fill="#b53c49"/><path d="M35 30h55" stroke="#6d95bd" stroke-width="4" stroke-linecap="round"/>
+<text x="160" y="257" text-anchor="middle" font-family="Tahoma,Arial,sans-serif" font-size="12" font-weight="bold" fill="#315d86">أنشطة المنظمة</text></svg>
